@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Llamar a la función al cargar la página para asegurarse de que el campo de observación se muestre correctamente
     mostrarObservacion();
     
- // Inicializar Signature Pad en el canvas del Supervisor
+ // Inicializar Signature Pad en el canvas del Supervisor desarrollo  2024
 var canvas_supervisor = document.getElementById('canvas_supervisor');
 var signaturePad_supervisor = new SignaturePad(canvas_supervisor);
     
